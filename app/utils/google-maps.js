@@ -1,4 +1,4 @@
-import Ember from 'ember';
+import Ember from 'ember';//fix google maps!
 
 const google = window.google;
 
