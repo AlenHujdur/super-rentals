@@ -55,3 +55,7 @@ Specify what it takes to deploy your app.
 * ember-cli: 2.11.1 
 * node: 8.11.1
 * os: linux x64
+
+## READ!
+Read node modules:
+C:\Workspace\Development\super-rentals\node_modules\ember-data\addon\serializers\json.js
