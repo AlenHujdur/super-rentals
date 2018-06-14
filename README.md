@@ -59,3 +59,4 @@ Specify what it takes to deploy your app.
 ## READ!
 Read node modules:
 C:\Workspace\Development\super-rentals\node_modules\ember-data\addon\serializers\json.js
+Check what needs to be updated!
